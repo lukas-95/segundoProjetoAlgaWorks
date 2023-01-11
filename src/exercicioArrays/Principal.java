@@ -31,5 +31,6 @@ public class Principal {
         }
 
         estoque.listarProdutos();
+        System.out.println("Total de " + quantidadeProdutos + " produtos no estoque");
     }
 }

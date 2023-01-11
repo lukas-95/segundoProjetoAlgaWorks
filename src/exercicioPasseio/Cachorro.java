@@ -1,3 +1,5 @@
+package exercicioPasseio;
+
 public class Cachorro {
 
     String nome;

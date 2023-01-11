@@ -1,3 +1,5 @@
+package exercicioPasseio;
+
 public class Passeio {
 
     public static void main(String[] args) {
