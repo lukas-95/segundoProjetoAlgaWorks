@@ -10,6 +10,13 @@ public class MatematicaUtil {
         return calcularFibonacci(posicao - 1) + calcularFibonacci(posicao - 2);
     }
 
-    public static double calcularAreaCirculo(double v) {
+    public static final double PI = 3.14159265358979323846;
+    public static double calcularAreaCirculo(double raio) {
+
+        double area = (raio * raio) * MatematicaUtil.PI;
+
+        return area;
+
+
     }
 }
