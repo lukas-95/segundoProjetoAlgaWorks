@@ -13,7 +13,6 @@ public class TesteOperacaoEnum {
 
         }
 
-        //for (String s : args)
 
 
     }

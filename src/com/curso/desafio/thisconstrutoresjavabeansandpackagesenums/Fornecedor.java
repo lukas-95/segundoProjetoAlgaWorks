@@ -1,4 +1,4 @@
-package com.curso.desafio.thisconstrutoresjavabeans;
+package com.curso.desafio.thisconstrutoresjavabeansandpackagesenums;
 
  class Fornecedor {
 
