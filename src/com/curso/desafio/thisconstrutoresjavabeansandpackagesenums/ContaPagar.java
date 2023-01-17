@@ -3,7 +3,7 @@ package com.curso.desafio.thisconstrutoresjavabeansandpackagesenums;
 public class ContaPagar {
 
     private String descricao;
-    private int valor;
+    private double valor;
     private String dataVencimento;
     private Fornecedor fornecedor;
 
@@ -18,8 +18,8 @@ public class ContaPagar {
 
     }
 
-    public ContaPagar(Fornecedor fornecedor, String descricao, int valor, String dataVencimento) {
-        this.();
+    public ContaPagar(Fornecedor fornecedor, String descricao, double valor, String dataVencimento) {
+        this();
 
         this.fornecedor = fornecedor;
         this.descricao = descricao;
@@ -70,7 +70,7 @@ public class ContaPagar {
     }
 
     public int getValor() {
-        return valor;
+        return (int) valor;
     }
 
     public void setValor(int valor) {
