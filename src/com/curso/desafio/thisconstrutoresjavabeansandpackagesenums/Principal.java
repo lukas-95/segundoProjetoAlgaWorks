@@ -4,20 +4,20 @@ public class Principal {
 
     public static void main(String[] args) {
         Fornecedor imobiliaria = new Fornecedor();
-        imobiliaria.setNome("Casa & Cia Negócios Imobiliários");
+        imobiliaria.setNome("Tche Negócios Imobiliários");
 
         Fornecedor mercado = new Fornecedor();
-        mercado.setNome("Mercado do João");
+        mercado.setNome("Mercado do João pé de Feijão");
 
         ContaPagar conta1 = new ContaPagar();
-        conta1.setDescricao("Aluguel da matriz");
+        conta1.setDescricao("Aluguel da matriz paulista");
         conta1.setValor((int) 45d);
-        conta1.setDataVencimento("10/05/2012");
+        conta1.setDataVencimento("10/05/2023");
         conta1.setFornecedor(imobiliaria);
 
-        ContaPagar conta2 = new ContaPagar(mercado, "Compras do mês", 390d, "19/05/2012");
+        ContaPagar conta2 = new ContaPagar(mercado, "Compras do mês", 390d, "19/05/2023");
 
-        ContaPagar conta3 = new ContaPagar(mercado, "Aluguel da filial", 700d, "11/05/2012");
+        ContaPagar conta3 = new ContaPagar(mercado, "Aluguel da filial", 700d, "11/05/2023");
 
         // pagamento de conta pendente (ok, deve funcionar)
         conta1.pagar();
