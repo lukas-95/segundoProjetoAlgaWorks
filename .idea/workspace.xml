@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea7f6800-d126-41bf-ac3e-1614eed97f5e" name="Default Changelist" comment="Started challenge Packages and Enums">
+      <change beforePath="$PROJECT_DIR$/.gitignore Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KGZtmBedGuW77GGWHplWIdtvhm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lucasreckmenezes/Documents/GitHub/segundoProjetoAlgaWorks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/src/com/curso/desafio/herançaesobreposicao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.curso.desafio.herançaesobreposicao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curso.fjoo.sobrecarga.TesteCadastro" />
+      <module name="meu-segundo-projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curso.fjoo.sobrecarga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteHeranca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curso.fjoo.heranca.TesteHeranca" />
+      <module name="meu-segundo-projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curso.fjoo.heranca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMaquinaCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.curso.exercicio.sobrecarga.TesteMaquinaCafe" />
+      <module name="segundoProjetoAlgaWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curso.exercicio.sobrecarga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSobreposicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curso.fjoo.sobreposicao.TesteSobreposicao" />
+      <module name="meu-segundo-projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curso.fjoo.sobreposicao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.curso.desafio.herancaesobreposicao.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curso.desafio.herancaesobreposicao.Principal" />
+      <module name="meu-segundo-projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curso.desafio.herancaesobreposicao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="segundoProjetoAlgaWorks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="segundoProjetoAlgaWorks" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteMaquinaCafe" />
+        <item itemvalue="Application.TesteCadastro" />
+        <item itemvalue="Application.com.curso.desafio.herancaesobreposicao.Principal" />
+        <item itemvalue="Application.TesteSobreposicao" />
+        <item itemvalue="Application.TesteHeranca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea7f6800-d126-41bf-ac3e-1614eed97f5e" name="Default Changelist" comment="" />
+      <created>1673603096377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673603096377</updated>
+      <workItem from="1673603097648" duration="2078000" />
+      <workItem from="1673748783099" duration="590000" />
+      <workItem from="1673750311397" duration="556000" />
+      <workItem from="1673860892537" duration="12017000" />
+      <workItem from="1674120559733" duration="13599000" />
+      <workItem from="1674465387226" duration="312000" />
+      <workItem from="1674465729795" duration="37000" />
+      <workItem from="1674465840803" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="Started challenge Packages and Enums">
+      <created>1673870577960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673870577960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Started challenge Packages and Enums">
+      <created>1673870591637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673870591637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started challenge Packages and Enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started challenge Packages and Enums" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/TesteMaquinaCafe.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>11</line>
+          <properties class="com.curso.exercicio.sobrecarga.MaquinaCafe" method="fazerCafe">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/curso/exercicio/sobrecarga/MaquinaCafe.java</url>
+          <line>7</line>
+          <properties class="com.curso.exercicio.sobrecarga.MaquinaCafe" method="fazerCafe">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
