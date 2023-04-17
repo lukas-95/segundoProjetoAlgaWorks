@@ -40,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/lucasreckmenezes/Documents/GitHub/segundoProjetoAlgaWorks",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/segundoProjetoAlgaWorks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,7 +57,7 @@
       <recent name="com.curso.desafio.herançaesobreposicao" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.curso.desafio.herancaesobreposicao.Principal">
     <configuration name="TesteCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curso.fjoo.sobrecarga.TesteCadastro" />
       <module name="meu-segundo-projeto" />
